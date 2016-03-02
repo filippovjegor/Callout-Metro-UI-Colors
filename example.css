@@ -1,0 +1,133 @@
+/* Стили для примера 1*/
+.callout-one{
+    max-width: 100%;
+    padding: 10px 20px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+.callout-one p{
+    margin: 0;
+}
+.callout-one-default{
+    border-left: 5px solid #dddddd;
+}
+.callout-one-danger{
+    border-left: 5px solid #d11141;
+}
+.callout-one-warning{
+    border-left: 5px solid #ffc425;
+}
+.callout-one-info{
+    border-left: 5px solid #00aedb;
+}
+.callout-one-success{
+    border-left: 5px solid #00b159;
+}
+.callout-one-primary{
+    border-left: 5px solid #f37735;
+}
+
+/*Стили для примера 1.1*/
+.callout-one img{
+    float: left;
+    padding-right: 20px;
+}
+
+/*Стили для примера 1.2*/
+.callout-one-two-default{
+    border-left: 5px solid #dddddd;
+    border-bottom: 5px solid #dddddd;
+}
+.callout-one-two-danger{
+    border-left: 5px solid #d11141;
+    border-bottom: 5px solid #d11141;
+}
+.callout-one-two-warning{
+    border-left: 5px solid #ffc425;
+    border-bottom: 5px solid #ffc425;
+}
+.callout-one-two-info{
+    border-left: 5px solid #00aedb;
+    border-bottom: 5px solid #00aedb;
+}
+.callout-one-two-success{
+    border-left: 5px solid #00b159;
+    border-bottom: 5px solid #00b159;
+}
+.callout-one-two-primary{
+    border-left: 5px solid #f37735;
+    border-bottom: 5px solid #f37735;
+}
+
+/*Стили для примеров 2-5*/
+.callout {
+    max-width: 100%;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    -webkit-box-shadow: 0 1px 0 #e5e5e5;
+    box-shadow: 0 1px 0 #e5e5e5;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.callout p{
+    margin: 0;
+}
+.callout-default {
+    border-left-color: #dddddd;
+}
+.callout-danger {
+    border-left-color: #d11141;
+}
+.callout-warning {
+    border-left-color: #ffc425;
+}
+.callout-info {
+    border-left-color:  #00aedb;
+}
+.callout-success {
+    border-left-color:  #00b159;
+}
+.callout-primary {
+    border-left-color:  #f37735;
+}
+.callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.callout-danger h4 {
+    color: #d11141;
+}
+.callout-warning h4 {
+    color: #ffc425;
+}
+.callout-info h4 {
+    color:  #00aedb;
+}
+.callout-success h4 {
+    color:  #00b159;
+}
+.callout-primary h4 {
+    color:  #f37735;
+}
+.callout-default i {
+    color: #dddddd;
+}
+.bg-c-default{
+    background-color: #fafafa;
+}
+.bg-c-danger{
+    background-color: #fef1f4;
+}
+.bg-c-warning{
+    background-color: #fff8e6;
+}
+.bg-c-info{
+    background-color: #f4fdff;
+}
+.bg-c-success{
+    background-color: #f2fff9;
+}
+.bg-c-primary{
+    background-color: #fef5f1;
+}
